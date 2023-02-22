@@ -201,6 +201,12 @@ button:hover{
     transform: translateY(-5%);
 }
 
+.reset:hover{
+    transform: translateY(-5%);
+    
+}
+
+
 /*Querries*/
 
 
